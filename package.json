@@ -1,6 +1,6 @@
 {
   "name": "shipping-abf",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "ABF Freight Shipping API bindings for Node.JS",
   "keywords": [
     "shipping",
